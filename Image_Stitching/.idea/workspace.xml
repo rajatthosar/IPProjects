@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a318b-cc01-492e-8ab6-d76eb3a6157a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Project 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/rtsil.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task1/matches.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task1/matches_knn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task1/pano.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task1/sift1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task1/sift2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task2/disparity.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task2/epi_left.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task2/epi_right.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task2/matches_knn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task2/sift1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task2/sift2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3/baboon_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3/baboon_20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3/baboon_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3/baboon_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3/iter1_a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3/iter1_b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3_iter1_a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3_iter1_b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3_iter2_a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectOutputs/task3_iter2_b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Task1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2/Task2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3/Task3_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3/Task3_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2_data/data/baboon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2_data/data/mountain1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2_data/data/mountain2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2_data/data/tsucuba_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2_data/data/tsucuba_right.png" beforeDir="false" />
-    </list>
+    <list default="true" id="719a318b-cc01-492e-8ab6-d76eb3a6157a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +60,7 @@
     <session id="-237860973">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.opened" value="4" />
@@ -137,7 +94,59 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task3/Task3_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="152" selection-start-line="152" selection-end-line="152" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task3/Task3_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1563745454312" expanded="true" signature="416:421" ph="..." />
+                <marker date="1563745454312" expanded="true" signature="416:537" ph="..." />
+                <marker date="1563745454312" expanded="true" signature="668:669" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,9 +154,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -176,7 +182,6 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -362,11 +367,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.3617021" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" visible="true" weight="0.3617021" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32907802" />
@@ -382,6 +387,28 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Task3/Task3_1.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Functions.py</url>
+          <line>157</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Functions.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Functions.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -516,6 +543,9 @@
           <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+            <marker date="1563745454312" expanded="true" signature="416:421" ph="..." />
+            <marker date="1563745454312" expanded="true" signature="416:537" ph="..." />
+            <marker date="1563745454312" expanded="true" signature="668:669" ph="..." />
           </folding>
         </state>
       </provider>
@@ -548,22 +578,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions.py">
+    <entry file="file://$PROJECT_DIR$/Task3/Task3_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        <state relative-caret-position="73">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task3/Task3_1.py">
+    <entry file="file://$PROJECT_DIR$/Functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="249">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
